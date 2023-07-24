@@ -28,8 +28,6 @@
 
 - 💬 Ask me about **Java Programming**
 
-- 📫 How to reach me **jericksonmayor@gmail.com**
-
 - ⚡ Fun fact **I'm introvert**
 
 > If you're interested in the work I do, please consider sponsoring me on GitHub!
