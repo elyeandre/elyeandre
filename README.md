@@ -2,6 +2,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20There!&height=100&section=header&fontSize=70&fontColor=ffffff"/>
 </p>
 -->
+
+<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner2.png"> </div>
+<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+
+- 🔭 I’m currently working on [30-Days-Of-DevOps](https://github.com/jaiswaladi246/30-Days-Of-DevOps)
+
+- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+
+- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
+
+- 💬 Ask me about **DevOps & Cloud DevOps**
+
+- 📫 How to reach me **masteraadi246@gmail.com**
+
+
+
 <p align="center">
 <img src="https://github.com/elyeandre/elyeandre/blob/4dcca3c81ad8e8706988084cc051cd54211723d0/header_1.png">
 </p>
