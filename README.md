@@ -5,13 +5,13 @@
 <img  src="coder.svg" width="395">
 </div>
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=elyeandre&style=flat-square&color=blue" alt="elyeandre"/>
-</div>
+</p>
 
 <h3 align="center">A passionate java developer from Philippines</h3>
 
