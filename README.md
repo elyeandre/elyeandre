@@ -7,10 +7,9 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=elyeandre&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=elyeandre&style=flat-square&color=blue" alt="elyeandre"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Jerickson Mayor</h1>
 <h3 align="center">A passionate java developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elyeandre&label=Profile%20views&color=0e75b6&style=flat" alt="elyeandre" /> </p>
