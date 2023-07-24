@@ -6,10 +6,7 @@
 <p  align="center">
 <img  src="coder.svg" width="395">
 </p>
-
-<p align="center">
 <a href="https://fb.com/jericksonmayor" target="blank"> <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
-</p>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   <br>
