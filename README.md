@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hello!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Hello!&fontSize=90)
 
 <div  align="center">
 <img  src="coder.svg" width="395">
