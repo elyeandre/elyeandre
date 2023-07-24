@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20There!&height=100&section=header&fontSize=70&fontColor=ffffff"/>
 </p>
 <p  align="center">
-<img  src="coder.svg" width="395">
+<img  src="coder.svg" width="420">
 </p>
-<div align="center">
+<p align="center">
   <a href="https://fb.com/jericksonmayor" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" 
   alt="Facebook Badge"/>
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="elyeandre"/> 
   <br>
   <img src="https://komarev.com/ghpvc/?username=elyeandre&label=Profile%20views&color=0e75b6&style=style=flat-square&color=blue" alt="elyeandre" />
-</div>
+</p>
 <!--
 <p align="left" 
   <a href="https://visitcount.itsvg.in">
