@@ -9,13 +9,16 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=elyeandre&label=Profile%20views&color=0e75b6&style=flat" alt="elyeandre" /> 
   <br>
 </p>
+<!--
 <p align="left" 
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=elyeandre&label=Profile%20Views&color=1&icon=5&pretty=true" />
   </a>
 </p>
+-->
 <h3 align="center">A passionate java developer from Philippines</h3>
 
 - 🌱 I’m currently learning **Web Development**
