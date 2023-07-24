@@ -63,6 +63,6 @@
 </p>
 -->
 
-div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+<div align="center">
+  [![Spotify](https://elyeandre.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]
 </div>
