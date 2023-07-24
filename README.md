@@ -20,10 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=elyeandre&label=Profile%20views&color=0e75b6&style=flat-square&color=blue" alt="elyeandre" />
 </p>
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem-elyeandre.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31guvvqet3itc2gsqo63aptot3t4?si=039df3d397fc4c84)
-</div>
-
 ---
 
 <!--
@@ -52,7 +48,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elyeandre&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🎵 Spotify Now Playing
-
+&nbsp;<div align="left">
+  [![Spotify](https://novatorem-elyeandre.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31guvvqet3itc2gsqo63aptot3t4?si=039df3d397fc4c84)
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=elyeandre&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
