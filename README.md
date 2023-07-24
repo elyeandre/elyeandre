@@ -1,6 +1,5 @@
 <div id="header" align="center">
 <img  src="coder.svg" width="395">
-<h1>A passionate Java Developer</h1>
 </div>
 
 
@@ -9,3 +8,4 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
+<h3>A passionate Java Developer</h3>
