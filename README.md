@@ -63,4 +63,4 @@
 </p>
 -->
 
-[![Spotify](https://elyeandre.vercel.app/api/spotify)](https://open.spotify.com/user/elyeandre)
+[![Spotify](https://elyeandre.vercel.app/api/spotify)](https://open.spotify.com/user/31guvvqet3itc2gsqo63aptot3t4)
