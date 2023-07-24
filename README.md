@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=elyeandre&label=Profile%20views&color=0e75b6&style=flat-square&color=blue" alt="elyeandre" /> 
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit" alt="elyeandre" /> 
 </p>
 <!--
 <p align="left" 
