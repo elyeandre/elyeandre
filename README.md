@@ -4,7 +4,7 @@
 <p  align="center">
 <img  src="coder.svg" width="395">
 </p>
-<p align="center">
+<div align="center">
   <a href="https://fb.com/jericksonmayor" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" 
   alt="Facebook Badge"/>
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="elyeandre"/> 
   <br>
   <img src="https://komarev.com/ghpvc/?username=elyeandre&label=Profile%20views&color=0e75b6&style=style=flat-square&color=blue" alt="elyeandre" />
-</p>
+</div>
 <!--
 <p align="left" 
   <a href="https://visitcount.itsvg.in">
