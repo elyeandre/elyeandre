@@ -62,3 +62,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 -->
+
+[![Spotify](https://elyeandre.vercel.app/api/spotify)](https://open.spotify.com/user/elyeandre)
