@@ -21,6 +21,8 @@
   <img src="https://komarev.com/ghpvc/?username=elyeandre&label=Profile%20views&color=0e75b6&style=flat-square&color=blue" alt="elyeandre" />
 </p>
 
+---
+
 **`A Passionate Java Developer`**
 - 🌱 I’m currently learning **Web Development**
 
@@ -35,7 +37,7 @@
 
 [`animate-presence`](https://github.com/natemoo-re/animate-presence)
 
----
+
 
 <!--
 <p align="left" 
