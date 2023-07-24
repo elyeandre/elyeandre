@@ -3,11 +3,10 @@
 </p>
 -->
 
-
-
-<p  align="right">
+<p align="right">
 <img  src="coder.svg" width="400">
 </p>
+<!--
 <p align="right">
   <a href="https://fb.com/jericksonmayor" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" 
@@ -22,7 +21,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=elyeandre&label=Profile%20views&color=0e75b6&style=flat-square&color=blue" alt="elyeandre" />
 </p>
-
+-->
 **`A Passionate Java Developer`**
 - 🌱 I’m currently learning **Web Development**
 
