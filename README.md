@@ -1,6 +1,8 @@
 <div id="header" align="center">
 <img  src="coder.svg" width="395">
+<h1>A passionate Java Developer</h1>
 </div>
+
 
 <div align="center" id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
