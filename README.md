@@ -1,6 +1,7 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20There!&height=100&section=header&fontSize=70&fontColor=ffffff"/>
 </p>
+-->
 <p  align="center">
 <img  src="coder.svg" width="400">
 </p>
@@ -18,13 +19,14 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=elyeandre&label=Profile%20views&color=0e75b6&style=style=flat-square&color=blue" alt="elyeandre" />
 </p>
-<!--
+
 <p align="left" 
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=elyeandre&label=Profile%20Views&color=1&icon=5&pretty=true" />
   </a>
 </p>
--->
+
+<!--
 <h3 align="center">A passionate Java Developer from Philippines</h3>
 
 - 🌱 I’m currently learning **Web Development**
@@ -52,11 +54,12 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/elyeandre) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/elyeandre) 
-
+-->
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+<!--
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+-->
