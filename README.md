@@ -6,7 +6,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Jerickson Mayor</h1>
 <div align="center"> <img src="https://github.com/elyeandre/elyeandre/blob/4dcca3c81ad8e8706988084cc051cd54211723d0/header_1.png"> </div>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/elyeandre/elyeandre/blob/018db22cd7b3ffceb5204c84dc7e49f2f90d145f/coder.svg">
+<img align="right" alt="Coding" width="330" src="https://github.com/elyeandre/elyeandre/blob/018db22cd7b3ffceb5204c84dc7e49f2f90d145f/coder.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
