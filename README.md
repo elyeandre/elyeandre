@@ -25,7 +25,7 @@
   <img src="https://visitcount.itsvg.in/api?id=elyeandre&label=Profile%20Views&color=1&icon=5&pretty=true" />
   </a>
 </p>
-
+-->
 <h3 align="center">A passionate Java Developer from Philippines</h3>
 
 - 🌱 I’m currently learning **Web Development**
