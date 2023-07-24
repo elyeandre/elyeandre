@@ -21,7 +21,7 @@
   </a>
 </p>
 -->
-<h3 align="center">A passionate java developer from Philippines</h3>
+<h3 align="center">A passionate Java Developer from Philippines</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
