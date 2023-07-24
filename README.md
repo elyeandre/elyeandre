@@ -2,25 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20There!&height=100&section=header&fontSize=70&fontColor=ffffff"/>
 </p>
 -->
-**`A Passionate Java Developer`**
-- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Java Programming**
-
-- 📫 How to reach me **jericksonmayor@gmail.com**
-
-- ⚡ Fun fact **I'm introvert**
-
-> If you're interested in the work I do, please consider sponsoring me on GitHub!
-
-
-[`animate-presence`](https://github.com/natemoo-re/animate-presence)
 
 
 <p  align="right">
 <img  src="coder.svg" width="400">
 </p>
-<p align="center">
+<p align="right">
   <a href="https://fb.com/jericksonmayor" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" 
   alt="Facebook Badge"/>
@@ -34,6 +22,20 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=elyeandre&label=Profile%20views&color=0e75b6&style=flat-square&color=blue" alt="elyeandre" />
 </p>
+
+**`A Passionate Java Developer`**
+- 🌱 I’m currently learning **Web Development**
+
+- 💬 Ask me about **Java Programming**
+
+- 📫 How to reach me **jericksonmayor@gmail.com**
+
+- ⚡ Fun fact **I'm introvert**
+
+> If you're interested in the work I do, please consider sponsoring me on GitHub!
+
+
+[`animate-presence`](https://github.com/natemoo-re/animate-presence)
 
 ---
 
