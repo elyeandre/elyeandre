@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20There!&height=100&section=header&fontSize=70&fontColor=ffffff"/>
 </p>
 -->
-
-<img align="center" alt="Coding" width="400" src="https://github.com/elyeandre/elyeandre/blob/018db22cd7b3ffceb5204c84dc7e49f2f90d145f/coder.svg">
-
+<p align="center">
+<img  alt="Coding" width="400" src="https://github.com/elyeandre/elyeandre/blob/018db22cd7b3ffceb5204c84dc7e49f2f90d145f/coder.svg">
+</p>
 
 <p align="center">
   <a href="https://fb.com/jericksonmayor" target="_blank">
