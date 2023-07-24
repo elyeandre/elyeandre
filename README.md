@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img  src="coder.svg" width="500">
+<img  src="coder.svg" width="400">
 </div>
 
 <div align="center" id="badges">
