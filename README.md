@@ -20,8 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=elyeandre&label=Profile%20views&color=0e75b6&style=flat-square&color=blue" alt="elyeandre" />
 </p>
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
-
 ---
 
 <!--
@@ -31,8 +29,8 @@
   </a>
 </p>
 -->
-<h3 align="center">A passionate Java Developer from Philippines</h3>
-
+<!--<h3 align="center">A passionate Java Developer from Philippines</h3>-->
+**`A Passionate Java Developer`**
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Java Programming**
