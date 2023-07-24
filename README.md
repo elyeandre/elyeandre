@@ -7,7 +7,7 @@
 </p>
 
 <p align="right">
-<img  src="coder.svg" width="400">
+<img  src="coder.svg" width="200">
 </p>
 <!--
 <p align="right">
