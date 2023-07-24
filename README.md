@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20There!&height=100&section=header&fontSize=70&fontColor=ffffff"/>
 </p>
 <p  align="center">
-<img  src="coder.svg" width="400">
+<img  src="coder.svg" width="420">
 </p>
 <p align="center">
   <a href="https://fb.com/jericksonmayor" target="_blank">
