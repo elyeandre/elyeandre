@@ -15,8 +15,6 @@
 
 <h3 align="center">A passionate java developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elyeandre&label=Profile%20views&color=0e75b6&style=flat" alt="elyeandre" /> </p>
-
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Java Programming**
