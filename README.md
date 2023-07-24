@@ -48,7 +48,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elyeandre&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🎵 Spotify Now Playing
-<div align="left">
+&nbsb<div align="left">
   [![Spotify](https://novatorem-elyeandre.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31guvvqet3itc2gsqo63aptot3t4?si=039df3d397fc4c84)
 </div>
 
