@@ -1,11 +1,11 @@
-<!--<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20There!&height=100&section=header&fontSize=70&fontColor=ffffff"/>
 </p>
--->
-![](https://github.com/elyeandre/elyeandre/blob/5696cad7c74192ef2d30482831c0042d63751e00/header_1.png)
-<div  align="center">
+
+
+<p  align="center">
 <img  src="coder.svg" width="395">
-</div>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
