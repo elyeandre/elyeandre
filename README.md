@@ -19,6 +19,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=elyeandre&label=Profile%20views&color=0e75b6&style=style=flat-square&color=blue" alt="elyeandre" />
 </p>
+
 &nbsp;<div align="center">
   [![Spotify](https://novatorem-elyeandre.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31guvvqet3itc2gsqo63aptot3t4?si=039df3d397fc4c84)
 </div>
