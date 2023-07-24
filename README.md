@@ -3,10 +3,10 @@
 </p>
 -->
 
-<img align="center" alt="Coding" width="330" src="https://github.com/elyeandre/elyeandre/blob/018db22cd7b3ffceb5204c84dc7e49f2f90d145f/coder.svg">
+<img align="center" alt="Coding" width="400" src="https://github.com/elyeandre/elyeandre/blob/018db22cd7b3ffceb5204c84dc7e49f2f90d145f/coder.svg">
 
 
-<p align="right">
+<p align="center">
   <a href="https://fb.com/jericksonmayor" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" 
   alt="Facebook Badge"/>
