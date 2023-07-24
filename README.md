@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   <br>
-  <img src="https://visitcount.itsvg.in/api?id=elyeandre&icon=5&color=0)](https://visitcount.itsvg.in" alt="elyeandre"/>
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=elyeandre&label=Profile%20Views&color=1&icon=5&pretty=true" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=elyeandre&style=flat-square&color=blue" alt="elyeandre"/>
 </p>
 
