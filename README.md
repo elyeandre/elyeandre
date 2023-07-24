@@ -66,4 +66,4 @@
 <div align="center">
   [![Spotify](https://novatorem-elyeandre.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31guvvqet3itc2gsqo63aptot3t4?si=df82d5fe2e9c44a2)
 </div>
-</div>
+
