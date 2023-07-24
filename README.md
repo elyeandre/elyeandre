@@ -1,3 +1,5 @@
+![](https://github.com/halfrost/halfrost/blob/master/header.png)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20There!&height=100&section=header&fontSize=70&fontColor=ffffff"/>
 </p>
