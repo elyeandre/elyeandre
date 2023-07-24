@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20There!&height=100&section=header&fontSize=70&fontColor=ffffff"/>
 </p>
 -->
-![Header](https://github.com/elyeandre/elyeandre/blob/4dcca3c81ad8e8706988084cc051cd54211723d0/header_1.png)
+<p align="center">
+<img src="https://github.com/elyeandre/elyeandre/blob/4dcca3c81ad8e8706988084cc051cd54211723d0/header_1.png" width="400">
+</p>
 
 <p align="right">
 <img  src="coder.svg" width="400">
