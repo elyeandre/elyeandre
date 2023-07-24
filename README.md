@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=elyeandre&style=flat-square&color=blue" alt="elyeandre"/>
+  [![](https://visitcount.itsvg.in/api?id=elyeandre&icon=5&color=0)](https://visitcount.itsvg.in)
 </p>
 
 <h3 align="center">A passionate java developer from Philippines</h3>
@@ -52,7 +52,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=elyeandre&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/elyeandre) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/elyeandre) 
