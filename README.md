@@ -20,15 +20,6 @@
 
 - 📫 How to reach me **masteraadi246@gmail.com**
 
-
-
-<p align="center">
-<img src="https://github.com/elyeandre/elyeandre/blob/4dcca3c81ad8e8706988084cc051cd54211723d0/header_1.png">
-</p>
-
-<p align="right">
-<img  src="coder.svg" width="330">
-</p>
 <!--
 <p align="right">
   <a href="https://fb.com/jericksonmayor" target="_blank">
