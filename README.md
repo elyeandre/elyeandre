@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey, There!&height=100&section=header"/>
 </p>
 <div  align="center">
 <img  src="coder.svg" width="395">
@@ -36,5 +36,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/elyeandre"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="elyeandre" /></a><a href="https://ko-fi.com/elyeandre"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="elyeandre" /></a></p><br><br>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
