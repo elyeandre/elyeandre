@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   <br>
   <img src="https://visitcount.itsvg.in/api?id=elyeandre&icon=5&color=0)](https://visitcount.itsvg.in" alt="elyeandre"/>
+  <img src="https://komarev.com/ghpvc/?username=elyeandre&style=flat-square&color=blue" alt="elyeandre"/>
 </p>
 
 <h3 align="center">A passionate java developer from Philippines</h3>
