@@ -3,9 +3,7 @@
 </p>
 -->
 
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/elyeandre/elyeandre/issues/1) in [elyeandre/elyeandre](https://github.com/elyeandre/elyeandre)
-<!--END_SECTION:activity-->
+
 
 <p align="center">
 <img  alt="Coding" width="400" src="https://github.com/elyeandre/elyeandre/blob/018db22cd7b3ffceb5204c84dc7e49f2f90d145f/coder.svg">
@@ -55,6 +53,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elyeandre&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elyeandre&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 <!--### 🎵 Spotify Now Playing-->
