@@ -60,7 +60,10 @@
 ### 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/elyeandre) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/elyeandre) 
 
- <!--START_SECTION:activity-->
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 <!--
 <p align="center">
@@ -68,7 +71,4 @@
 </p>
 -->
 
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
