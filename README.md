@@ -27,7 +27,7 @@
 ---
 
 ### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🌱 I’m currently learning **Web Development**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 💬 Ask me about **Java Programming**
 - ⚡ Fun fact **I'm a tea cup guy!**
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Game Development 𝚊𝚝 Bataan Peninsula State University
