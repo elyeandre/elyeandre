@@ -55,7 +55,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Reopened issue [#2](https://github.com/elyeandre/elyeandre/issues/2) in [elyeandre/elyeandre](https://github.com/elyeandre/elyeandre)
+1. 🔒 Closed issue [#1](https://github.com/elyeandre/elyeandre/issues/1) in [elyeandre/elyeandre](https://github.com/elyeandre/elyeandre)
 <!--END_SECTION:activity-->
 
 
