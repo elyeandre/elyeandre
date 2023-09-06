@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img  alt="Coding" width="360" src="https://github.com/elyeandre/elyeandre/blob/018db22cd7b3ffceb5204c84dc7e49f2f90d145f/coder.svg">
+<img  alt="Coding" width="355" src="https://github.com/elyeandre/elyeandre/blob/018db22cd7b3ffceb5204c84dc7e49f2f90d145f/coder.svg">
 </p>
 
 <p align="center">
