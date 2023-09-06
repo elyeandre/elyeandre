@@ -55,7 +55,7 @@
 
 <!-- Details Section -->
 <details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
+    <summary> <samp>&#9776; More Stats</samp></summary>
     <p align="left">
         <br>
         <!-- Activity Widget -->
@@ -67,7 +67,6 @@
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyeandre&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
         <br>
 </details>
-<br>
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
