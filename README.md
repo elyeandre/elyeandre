@@ -58,6 +58,36 @@
 1. 🔒 Closed issue [#1](https://github.com/elyeandre/elyeandre/issues/1) in [elyeandre/elyeandre](https://github.com/elyeandre/elyeandre)
 <!--END_SECTION:activity-->
 
+<!-- Details Section -->
+<details align="center">
+    <summary> <samp>&#9776; More</samp></summary>
+    <p align="center">
+        <br>
+        <!-- Activity Widget -->
+        <img alt="Shahriar Shafin's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=radical" />
+        <br>
+        <!-- Social Links -->
+        <p>Find me on</p>
+        <!-- Mail -->
+        <a href="mailto:connect.shafin@gmail.com" target="_blank"><img alt="Mail"
+                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        <!-- Twitter -->
+        <a href="https://twitter.com/connectshafin" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
+        </a>
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+        <!-- Youtube -->
+        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
+                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
+        </a>
+    </p>
+</details>
+<br>
 
 <!--### 🎵 Spotify Now Playing
 
