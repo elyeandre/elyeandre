@@ -31,6 +31,7 @@
 - 💬 Ask me about **Java Programming**
 
 - ⚡ Fun fact **I'm a tea cup guy!**
+-  Btw I use **arch**
 
 <!-- > If you're interested in the work I do, please consider sponsoring me on GitHub!-->
 <!--[`animate-presence`](https://github.com/natemoo-re/animate-presence)-->
