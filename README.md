@@ -25,7 +25,7 @@
 
 ---
 
-### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎:
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝙹𝚊𝚟𝚊 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 **𝙸'𝚖 𝚊 𝚝𝚎𝚊 𝚌𝚞𝚙 𝚐𝚞𝚢!**
@@ -66,7 +66,7 @@
         <br>
 </details>
 
-### ⚡ 𝚁𝚎𝚌𝚎𝚗𝚝 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+### ⚡ 𝚁𝚎𝚌𝚎𝚗𝚝 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#1](https://github.com/elyeandre/elyeandre/issues/1) in [elyeandre/elyeandre](https://github.com/elyeandre/elyeandre)
 <!--END_SECTION:activity-->
@@ -75,7 +75,7 @@
 
 [![Spotify](https://novatorem-elyeandre.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31guvvqet3itc2gsqo63aptot3t4?si=039df3d397fc4c84)
 -->
-### 💰 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚑𝚎𝚕𝚙 𝚖𝚎 𝚋𝚢 𝙳𝚘𝚗𝚊𝚝𝚒𝚗𝚐
+### 💰 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚑𝚎𝚕𝚙 𝚖𝚎 𝚋𝚢 𝙳𝚘𝚗𝚊𝚝𝚒𝚗𝚐:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/elyeandre) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/elyeandre) 
 
 <div align="center">
