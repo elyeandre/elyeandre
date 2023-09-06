@@ -23,6 +23,19 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=elyeandre&label=Profile%20views&color=0e75b6&style=flat-square&color=blue" alt="elyeandre" />
 </p>
+<div align="center">
+  <p>🌱 I’m currently learning <strong>Web Development</strong></p>
+  <p>💬 Ask me about <strong>Java Programming</strong></p>
+  <p>⚡ Fun fact <strong>I'm a tea cup guy!</strong></p>
+  <div style="display: inline-block; padding-top: 10px;">
+    <img alt="arch" width="50" src="https://github.com/elyeandre/elyeandre/blob/06a2eb1079885a03b94d47f575cdcdb90ab41180/archlinux-color.svg">
+  </div>
+  <p>Btw I use <strong>arch</strong></p>
+</div>
+
+In this HTML code, I've used the align="center" attribute on the outer <div> to center-align all the content. Inside the <div>, I've wrapped the SVG image in another <div> with display: inline-block; and added padding-top to vertically align the image within the text. Adjust the padding-top value as needed.
+
+Please note that GitHub's rendering of Markdown may not support all HTML and CSS features, so results can vary. Make sure to preview your README on GitHub to see how it appears.
 
 ---
 **`A Passionate Java Developer`**
