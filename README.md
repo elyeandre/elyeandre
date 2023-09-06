@@ -28,9 +28,9 @@
   <p>💬 Ask me about <strong>Java Programming</strong></p>
   <p>⚡ Fun fact <strong>I'm a tea cup guy!</strong></p>
   <div style="display: inline-block; padding-top: 10px;">
-    <img alt="arch" width="20" src="https://github.com/elyeandre/elyeandre/blob/06a2eb1079885a03b94d47f575cdcdb90ab41180/archlinux-color.svg">
+     <p>Btw I use <strong>arch</strong></p> <img alt="arch" width="20" src="https://github.com/elyeandre/elyeandre/blob/06a2eb1079885a03b94d47f575cdcdb90ab41180/archlinux-color.svg"> 
   </div>
-  <p>Btw I use <strong>arch</strong></p>
+ 
 </div>
 
 ---
