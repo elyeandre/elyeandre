@@ -23,7 +23,9 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=elyeandre&label=Profile%20views&color=0e75b6&style=flat-square&color=blue" alt="elyeandre" />
 </p>
+
 ---
+
 ### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🌱 I’m currently learning **Web Development**
 - 💬 Ask me about **Java Programming**
