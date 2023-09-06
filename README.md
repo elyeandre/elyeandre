@@ -31,7 +31,7 @@
 
 - 💬 Ask me about **Java Programming**
 
-<!--- ⚡ Fun fact **I'm introvert**
+<!--- ⚡ Fun fact **I'm introvert**-->
 
 <!-- > If you're interested in the work I do, please consider sponsoring me on GitHub!-->
 <!--[`animate-presence`](https://github.com/natemoo-re/animate-presence)-->
