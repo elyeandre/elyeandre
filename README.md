@@ -23,15 +23,13 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=elyeandre&label=Profile%20views&color=0e75b6&style=flat-square&color=blue" alt="elyeandre" />
 </p>
-
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+---
+### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🌱 I’m currently learning **Web Development**
 - 💬 Ask me about **Java Programming**
 - ⚡ Fun fact **I'm a tea cup guy!**
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Game Development 𝚊𝚝 Bataan Peninsula State University
 - 🐧 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 **𝙰𝚛𝚌𝚑** [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
-
----
 
 <!-- > If you're interested in the work I do, please consider sponsoring me on GitHub!-->
 <!--[`animate-presence`](https://github.com/natemoo-re/animate-presence)-->
