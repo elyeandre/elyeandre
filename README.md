@@ -68,7 +68,7 @@
         <br>
 </details>
 
-### :𝚣𝚊𝚙: 𝚁𝚎𝚌𝚎𝚗𝚝 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+### ⚡: 𝚁𝚎𝚌𝚎𝚗𝚝 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#1](https://github.com/elyeandre/elyeandre/issues/1) in [elyeandre/elyeandre](https://github.com/elyeandre/elyeandre)
 <!--END_SECTION:activity-->
@@ -83,7 +83,7 @@
 <div align="center">
   <hr></hr>
   
-**𝙲𝚘𝚍𝚎 𝙲𝚢𝚌𝚕𝚎**<𝚋𝚛>
+**𝙲𝚘𝚍𝚎 𝙲𝚢𝚌𝚕𝚎**<br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
