@@ -25,7 +25,7 @@
 
 ---
 
-### 📖: About Me:
+### 📖 About Me:
 - 🌱 I'm currently learning **Web Development**
 - 💬 Ask me About **Java Programming**
 - ⚡ Fun fact **I'm a tea cup guy!**
