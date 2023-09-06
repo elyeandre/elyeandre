@@ -30,7 +30,7 @@
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝙹𝚊𝚟𝚊 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 **𝙸'𝚖 𝚊 𝚝𝚎𝚊 𝚌𝚞𝚙 𝚐𝚞𝚢!**
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙶𝚊𝚖𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚊𝚝 𝙱𝚊𝚝𝚊𝚊𝚗 𝙿𝚎𝚗𝚒𝚗𝚜𝚞𝚕𝚊 𝚂𝚝𝚊𝚝𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 **𝙶𝚊𝚖𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝** 𝚊𝚝 𝙱𝚊𝚝𝚊𝚊𝚗 𝙿𝚎𝚗𝚒𝚗𝚜𝚞𝚕𝚊 𝚂𝚝𝚊𝚝𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢
 - 🐧 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 **𝙰𝚛𝚌𝚑** [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
 <!-- > If you're interested in the work I do, please consider sponsoring me on GitHub!-->
