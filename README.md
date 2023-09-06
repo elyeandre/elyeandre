@@ -31,7 +31,7 @@
 - 💬 Ask me about **Java Programming**
 
 - ⚡ Fun fact **I'm a tea cup guy!**
-- 🐧 <div align="center"><img alt="arch" width="50" src="https://github.com/elyeandre/elyeandre/blob/06a2eb1079885a03b94d47f575cdcdb90ab41180/archlinux-color.svg"></div> Btw I use **arch**
+- 🐧 <div align="left"><img alt="arch" width="50" src="https://github.com/elyeandre/elyeandre/blob/06a2eb1079885a03b94d47f575cdcdb90ab41180/archlinux-color.svg"></div> Btw I use **arch**
 
 <!-- > If you're interested in the work I do, please consider sponsoring me on GitHub!-->
 <!--[`animate-presence`](https://github.com/natemoo-re/animate-presence)-->
