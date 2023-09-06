@@ -25,7 +25,15 @@
 </p>
 
 ---
-
+<p>
+  <samp>
+                「 I'm a software developer from <b>Bangladesh</b> 」
+                <br>
+                「 Focused on creating impactful web applications that improve lives</b> 」
+                <br>
+                <br>
+        </samp>
+</p>
 **`A Passionate Java Developer`**
 - 🌱 I’m currently learning **Web Development**
 
