@@ -52,7 +52,7 @@
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=elyeandre&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
 <!-- Details Section -->
-<details align="center">
+<details align="left">
     <summary> <samp>&#9776; 𝙼𝚘𝚛𝚎 𝚂𝚝𝚊𝚝𝚜</samp></summary>
     <p align="left">
         <br>
