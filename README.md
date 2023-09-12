@@ -30,7 +30,7 @@
 ### 📖 About Me:
 - 🌱 I'm currently learning **Web Development**
 - 💬 Ask me About **Java Programming**
-- ⚡ Fun fact **I'm a tea cup guy!**
+- ⚡ Fun fact **Hello world was not the first program I wrote**
 - 🎓 Studying **Game Development** at Bataan Peninsula State University
 - 🐧 btw I use **Arch** [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
