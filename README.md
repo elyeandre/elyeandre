@@ -69,7 +69,6 @@
 </details>
 <br>
 
-
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1356](https://github.com/hirschmann/nbfc/issues/1356) in [hirschmann/nbfc](https://github.com/hirschmann/nbfc)
