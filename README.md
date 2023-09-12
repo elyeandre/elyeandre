@@ -67,7 +67,8 @@
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyeandre&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
         <br>
 </details>
-<br>
+<p></p>
+
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1356](https://github.com/hirschmann/nbfc/issues/1356) in [hirschmann/nbfc](https://github.com/hirschmann/nbfc)
