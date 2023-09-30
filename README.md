@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1356](https://github.com/hirschmann/nbfc/issues/1356) in [hirschmann/nbfc](https://github.com/hirschmann/nbfc)
+1. ❗ Opened issue [#1](https://github.com/pixpil/gii/issues/1) in [pixpil/gii](https://github.com/pixpil/gii)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
