@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Reopened issue [#1](https://github.com/pixpil/gii/issues/1) in [pixpil/gii](https://github.com/pixpil/gii)
+1. ❗ Opened issue [#19](https://github.com/rzc0d3r/ESET-KeyGen/issues/19) in [rzc0d3r/ESET-KeyGen](https://github.com/rzc0d3r/ESET-KeyGen)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
