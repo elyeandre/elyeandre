@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#19](https://github.com/rzc0d3r/ESET-KeyGen/issues/19) in [rzc0d3r/ESET-KeyGen](https://github.com/rzc0d3r/ESET-KeyGen)
+1. ❗ Opened issue [#10](https://github.com/Godiesc/firefox-one/issues/10) in [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
