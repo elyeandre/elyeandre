@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/Godiesc/firefox-one/issues/10) in [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one)
+1. 🔒 Closed issue [#1](https://github.com/pixpil/gii/issues/1) in [pixpil/gii](https://github.com/pixpil/gii)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
