@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/pixpil/gii/issues/1) in [pixpil/gii](https://github.com/pixpil/gii)
+1. 🚀 Published release [Sample](https://github.com/Sample) in [elyeandre/Simple-Calculator](https://github.com/elyeandre/Simple-Calculator)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
