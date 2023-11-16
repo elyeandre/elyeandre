@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Sample](https://github.com/Sample) in [elyeandre/Simple-Calculator](https://github.com/elyeandre/Simple-Calculator)
+1. 🚀 Published release [SimpleMazeGame](https://github.com/SimpleMazeGame) in [elyeandre/simple-maze-game](https://github.com/elyeandre/simple-maze-game)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
