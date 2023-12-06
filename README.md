@@ -33,7 +33,7 @@
 - ⚡ Fun fact **Hello world** was not the first program I wrote
 - 🎓 Studying **Game Development** at Bataan Peninsula State University
 - 🐧 btw I use **Arch** [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
-- 💻 **Vim** user: Vim enthusiast <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" height="30em" align="center" alt="Vim Logo" title="Vim Logo"/>
+- 💻 **Vim** user <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" height="30em" align="center" alt="Vim Logo" title="Vim Logo"/>
 <!-- > If you're interested in the work I do, please consider sponsoring me on GitHub!-->
 <!--[`animate-presence`](https://github.com/natemoo-re/animate-presence)-->
 
