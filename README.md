@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [SimpleMazeGame](https://github.com/SimpleMazeGame) in [elyeandre/simple-maze-game](https://github.com/elyeandre/simple-maze-game)
+1. ❌ Reopened PR [#1](https://github.com/elyeandre/test/pull/1) in [elyeandre/test](https://github.com/elyeandre/test)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
