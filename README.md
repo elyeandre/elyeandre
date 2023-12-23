@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/elyeandre/test/issues/1) in [elyeandre/test](https://github.com/elyeandre/test)
+1. 💪 Opened PR [#1](https://github.com/jericksonmayor/test/pull/1) in [jericksonmayor/test](https://github.com/jericksonmayor/test)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
