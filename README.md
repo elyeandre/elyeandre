@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/jericksonmayor/test/pull/1) in [jericksonmayor/test](https://github.com/jericksonmayor/test)
+1. ❌ Closed PR [#2](https://github.com/jericksonmayor/test/pull/2) in [jericksonmayor/test](https://github.com/jericksonmayor/test)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
