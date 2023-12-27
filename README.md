@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#441](https://github.com/mpv-android/mpv-android/issues/441) in [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android)
+1. ❌ Reopened PR [#4](https://github.com/elyeandre/providers/pull/4) in [elyeandre/providers](https://github.com/elyeandre/providers)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
