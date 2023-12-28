@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/elyeandre/providers/pull/4) in [elyeandre/providers](https://github.com/elyeandre/providers)
+1. 🎉 Merged PR [#5](https://github.com/elyeandre/providers/pull/5) in [elyeandre/providers](https://github.com/elyeandre/providers)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
