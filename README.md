@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/DrKain/subclean/issues/35) in [DrKain/subclean](https://github.com/DrKain/subclean)
+1. 💪 Opened PR [#6](https://github.com/victorsouzaleal/fb-downloader-scrapper/pull/6) in [victorsouzaleal/fb-downloader-scrapper](https://github.com/victorsouzaleal/fb-downloader-scrapper)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
