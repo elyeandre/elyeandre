@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/victorsouzaleal/fb-downloader-scrapper/pull/6) in [victorsouzaleal/fb-downloader-scrapper](https://github.com/victorsouzaleal/fb-downloader-scrapper)
+1. 🗣 Commented on [#787](https://github.com/anilbeesetti/nextplayer/issues/787) in [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
