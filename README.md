@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#158](https://github.com/movie-web/providers/pull/158) in [movie-web/providers](https://github.com/movie-web/providers)
+1. 🎉 Merged PR [#1](https://github.com/ely-mayor/providers/pull/1) in [ely-mayor/providers](https://github.com/ely-mayor/providers)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
