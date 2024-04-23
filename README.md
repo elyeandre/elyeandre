@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#787](https://github.com/anilbeesetti/nextplayer/issues/787) in [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer)
+1. 🎉 Merged PR [#1](https://github.com/ely-mayor/providers/pull/1) in [ely-mayor/providers](https://github.com/ely-mayor/providers)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
