@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ely-mayor/providers/pull/1) in [ely-mayor/providers](https://github.com/ely-mayor/providers)
+1. 🗣 Commented on [#1](https://github.com/dimondevceo/turnitinFree/issues/1) in [dimondevceo/turnitinFree](https://github.com/dimondevceo/turnitinFree)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
