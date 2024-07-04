@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/dimondevceo/turnitinFree/issues/1) in [dimondevceo/turnitinFree](https://github.com/dimondevceo/turnitinFree)
+1. 💪 Opened PR [#1](https://github.com/elyeandre/youtube-converter/pull/1) in [elyeandre/youtube-converter](https://github.com/elyeandre/youtube-converter)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
