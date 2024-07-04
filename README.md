@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/elyeandre/youtube-converter/pull/1) in [elyeandre/youtube-converter](https://github.com/elyeandre/youtube-converter)
+1. 🎉 Merged PR [#1](https://github.com/elyeandre/youtube-converter/pull/1) in [elyeandre/youtube-converter](https://github.com/elyeandre/youtube-converter)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
