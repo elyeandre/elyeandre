@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/elyeandre/streamely-native-app/pull/6) in [elyeandre/streamely-native-app](https://github.com/elyeandre/streamely-native-app)
+1. ❌ Closed PR [#9](https://github.com/elyeandre/streamely-native-app/pull/9) in [elyeandre/streamely-native-app](https://github.com/elyeandre/streamely-native-app)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
