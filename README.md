@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#968](https://github.com/mpv-android/mpv-android/issues/968) in [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android)
+1. 🗣 Commented on [#969](https://github.com/mpv-android/mpv-android/issues/969) in [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
