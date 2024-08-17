@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#969](https://github.com/mpv-android/mpv-android/issues/969) in [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android)
+1. ❗ Opened issue [#107](https://github.com/httptoolkit/frida-interception-and-unpinning/issues/107) in [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
