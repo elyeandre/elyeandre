@@ -70,7 +70,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#107](https://github.com/httptoolkit/frida-interception-and-unpinning/issues/107) in [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning)
+1. ❗ Opened issue [#112](https://github.com/frontyard/cordova-plugin-exoplayer/issues/112) in [frontyard/cordova-plugin-exoplayer](https://github.com/frontyard/cordova-plugin-exoplayer)
 <!--END_SECTION:activity-->
 
 <!--### 🎵 Spotify Now Playing
